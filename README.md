@@ -1,4 +1,4 @@
-# Install Speedtest-cli
+# Script Instalasi speedtest_cli
 
 `STB OpenWrt`
 ```
